@@ -8,3 +8,4 @@
 |2|programa1.py|concatenacion y comentarios multimedia.py|
 |3|progama2.py|concatenacion mediante la funcion format.py
 |4|progama3.py|concatenacion mediante la funcion format para realizar suma,resta,multiplicacion,division con todo y el resultado.|
+|6|programa5.py|area y perimetro de un cuadrado.
