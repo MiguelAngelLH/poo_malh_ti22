@@ -2,7 +2,7 @@ base: None
 altura: None
 while True:
   try:
-    base = float(input("Escriba la base del   triángulo:"))
+    base = float(input("Escriba la base del   triángulo: "))
 
     print("Debe escribir un número")
 
