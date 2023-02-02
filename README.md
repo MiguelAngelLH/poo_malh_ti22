@@ -11,3 +11,4 @@
 |5|programa4.py|actividad ,programa que suma,resta,multiplica y divide
 |6|programa5.py|area y perimetro de un cuadrado.
 |7|programa6.py| programa que calcula el area,superficie y circunferencia de un circulo.
+|8|programa7.py|Programa que permite saber cuál número es mayor.
