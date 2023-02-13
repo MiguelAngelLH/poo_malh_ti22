@@ -12,3 +12,4 @@
 |6|programa5.py|area y perimetro de un cuadrado.
 |7|programa6.py| programa que calcula el area,superficie y circunferencia de un circulo.
 |8|programa7.py|Programa que permite saber cuál número es mayor.
+|8|programa8.py|11 versiones de imprimir un numerp mayor.
